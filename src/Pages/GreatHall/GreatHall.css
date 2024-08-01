@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  /* justify-content: center; */
+  background-image: url(../../images/four-houses-of-hogwarts-harry-potter-ipad-guiufrml11jsj3mp.jpg);
+  background-position: center;
+  font-family: "HarryP";
+}
+
+#great-hall {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+#carousel {
+  display: flex;
+  flex-direction: column;
+}
+
+#carousel-note {
+  border: solid 4px black;
+  background-color: tan;
+  padding: 5px;
+  font-family: "HarryP";
+  font-size: x-large;
+  margin-right: 50px;
+}
+
+#carousel-box {
+  margin-left: 50px;
+}
+
+/* #form {
+  margin-top: 50px;
+} */
