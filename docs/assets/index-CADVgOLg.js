@@ -10366,7 +10366,7 @@ function Uh() {
           break;
       }
     };
-  const i = new Audio("./Harry_Potter_Theme_Song_Hedwigs_Theme.mp3"),
+  const i = new Audio("../Harry_Potter_Theme_Song_Hedwigs_Theme.mp3"),
     o = () => {
       i.play()
         .then(() => {
